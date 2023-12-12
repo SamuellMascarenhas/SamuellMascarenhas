@@ -1,7 +1,9 @@
 
 ### Olá! Meu nome é Samuel Mascarenhas.
+Sou um profissional multifacetado com paixão por tecnologia, design e criatividade. Como desenvolvedor web e designer, minha jornada no mundo digital tem sido repleta de exploração e aprendizado constante.
+<br/> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuellmascarenhas/)
+<br/> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuellmascarenhas/)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531982514559)
 
@@ -19,5 +21,4 @@
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-<br/>
-Sou um profissional multifacetado com paixão por tecnologia, design e criatividade. Como desenvolvedor web e designer, minha jornada no mundo digital tem sido repleta de exploração e aprendizado constante.
+

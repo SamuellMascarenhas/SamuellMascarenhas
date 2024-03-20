@@ -1,6 +1,6 @@
 
 ### Olá! Meu nome é Samuel Mascarenhas.
-Sou um profissional multifacetado com paixão por tecnologia, design e criatividade. Como desenvolvedor web e designer, minha jornada no mundo digital tem sido repleta de exploração e aprendizado constante.
+Sou um profissional multifacetado com paixão por tecnologia, design e criatividade. Como desenvolvedor e designer, minha jornada no mundo digital tem sido repleta de exploração e aprendizado constante.
 <br/> 
 
 <br/> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuellmascarenhas/)

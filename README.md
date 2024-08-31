@@ -1,4 +1,4 @@
-# Olá! Eu sou Samuel Mascarenhas 👋🏾
+# Olá! Eu sou Samuel Mascarenhas 👋
 
 Sou um entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
 

@@ -36,6 +36,9 @@ Sou um entusiasta de tecnologia com uma paixão por design e criatividade. Minha
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img alt="Adobe Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img alt="DAX" src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 ---

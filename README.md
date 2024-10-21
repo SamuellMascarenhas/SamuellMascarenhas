@@ -2,6 +2,7 @@
 
 Sou um entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
 
+- [Visite meu Portfolio!](https://samuellmascarenhas.github.io/Portfolio/)
 ## Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuellmascarenhas/)

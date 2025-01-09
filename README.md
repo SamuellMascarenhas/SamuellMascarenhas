@@ -1,12 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4ec695ce-cd28-44bc-8d30-95e893c27f11" alt="logo" width="400">
-</div>
 
-
-<div align="center">Entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Análise Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
-</div>
-
-###
 
 <div align="center">
   <a href="https://samuellmascarenhas.github.io/Portfolio/" target="_blank">
@@ -14,7 +8,14 @@
   </a>
 </div>
 
-###
+</div>
+
+## Sobre mim
+
+<div align="left">Entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Análise Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
+</div>
+
+
 
 ## Vamos nos conectar!
 
@@ -89,18 +90,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-0062A3?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
+  <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white" />
 </div>
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-0062A3?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
-  <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white" />
-  
-</div>
-
 ---
 
-Acredito na interseção entre tecnologia e criatividade para criar soluções que impactam positivamente o mundo. Vamos construir algo incrível juntos!
+#### Acredito na interseção entre tecnologia e criatividade para criar soluções que impactam positivamente o mundo. Vamos construir algo incrível juntos!

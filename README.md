@@ -90,12 +90,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+ 
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img alt="Power Apps" src="https://img.shields.io/badge/Power%20Apps-0062A3?style=for-the-badge&logo=microsoft-powerapps&logoColor=white" />
   <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft-powerautomate&logoColor=white" />
 </div>
-
-###
 
 ---
 

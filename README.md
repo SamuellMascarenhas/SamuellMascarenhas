@@ -3,12 +3,12 @@
 </div>
 
 
-<div align="left">Entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Análise Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
+<div align="center">Entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Análise Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://samuellmascarenhas.github.io/Portfolio/" target="_blank">
      <img alt="Portfolio" src="https://img.shields.io/badge/Clique%20aqui%20e%20visite%20meu%20Portfolio!-0078D4?style=for-the-badge&logo=microsoft-powerautomate&logoColor=green"  style="border-radius:50%;" />
   </a>

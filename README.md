@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/4ec695ce-cd28-44bc-8d30-95e893c27f11" alt="logo" width="400">
 </div>
 
-## Bio
 
 <div align="left">Entusiasta de tecnologia com uma paixão por design e criatividade. Minha formação em Técnico em Análise Desenvolvimento de Sistemas, juntamente com minha atual graduação em Ciência da Computação, reflete meu compromisso com o aprendizado contínuo e a inovação no mundo digital.
 </div>
@@ -37,11 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuellMascarenhas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/SamuellMascarenhas/SamuellMascarenhas/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 🚀 Tecnologias e Ferramentas
 

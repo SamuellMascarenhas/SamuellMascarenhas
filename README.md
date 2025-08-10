@@ -110,7 +110,4 @@ Formado em <strong>Desenvolvimento de Sistemas</strong> e atualmente cursando <s
 📚 Atualmente estudando **Ciências da Computação**  
 🤖 Explorando **Inteligência Artificial aplicada a produtos digitais**  
 🎯 Focado em **UX, performance e inovação**
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0095ff,100:001F3F"/>
